@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "구구단", "구구단\구구단.vcxproj", "{58029707-9A81-4A51-BC03-EAD971CBDBF2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "계산기", "calc\calc.vcxproj", "{E4981CF8-7BD2-4D47-90FA-9FDCEA436698}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{58029707-9A81-4A51-BC03-EAD971CBDBF2}.Release|x64.Build.0 = Release|x64
 		{58029707-9A81-4A51-BC03-EAD971CBDBF2}.Release|x86.ActiveCfg = Release|Win32
 		{58029707-9A81-4A51-BC03-EAD971CBDBF2}.Release|x86.Build.0 = Release|Win32
+		{E4981CF8-7BD2-4D47-90FA-9FDCEA436698}.Debug|x64.ActiveCfg = Debug|x64
+		{E4981CF8-7BD2-4D47-90FA-9FDCEA436698}.Debug|x64.Build.0 = Debug|x64
+		{E4981CF8-7BD2-4D47-90FA-9FDCEA436698}.Debug|x86.ActiveCfg = Debug|Win32
+		{E4981CF8-7BD2-4D47-90FA-9FDCEA436698}.Debug|x86.Build.0 = Debug|Win32
+		{E4981CF8-7BD2-4D47-90FA-9FDCEA436698}.Release|x64.ActiveCfg = Release|x64
+		{E4981CF8-7BD2-4D47-90FA-9FDCEA436698}.Release|x64.Build.0 = Release|x64
+		{E4981CF8-7BD2-4D47-90FA-9FDCEA436698}.Release|x86.ActiveCfg = Release|Win32
+		{E4981CF8-7BD2-4D47-90FA-9FDCEA436698}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

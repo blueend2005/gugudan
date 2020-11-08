@@ -15,9 +15,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "사각형그리기", "사�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "텍스트파일출력", "텍스트파일출력\텍스트파일출력.vcxproj", "{A94D18D0-2CE9-440F-A627-E093AAA15D33}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F56DDF78-2E23-4A98-BD6B-70F3F33E238D}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "약수출력", "약수출력\약수출력.vcxproj", "{9E96D24F-0C09-439D-BC63-07032C4DEFCA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "성적", "성적\성적.vcxproj", "{8D923A37-6CDD-4F0A-9142-1C140216D152}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +83,14 @@ Global
 		{9E96D24F-0C09-439D-BC63-07032C4DEFCA}.Release|x64.Build.0 = Release|x64
 		{9E96D24F-0C09-439D-BC63-07032C4DEFCA}.Release|x86.ActiveCfg = Release|Win32
 		{9E96D24F-0C09-439D-BC63-07032C4DEFCA}.Release|x86.Build.0 = Release|Win32
+		{8D923A37-6CDD-4F0A-9142-1C140216D152}.Debug|x64.ActiveCfg = Debug|x64
+		{8D923A37-6CDD-4F0A-9142-1C140216D152}.Debug|x64.Build.0 = Debug|x64
+		{8D923A37-6CDD-4F0A-9142-1C140216D152}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D923A37-6CDD-4F0A-9142-1C140216D152}.Debug|x86.Build.0 = Debug|Win32
+		{8D923A37-6CDD-4F0A-9142-1C140216D152}.Release|x64.ActiveCfg = Release|x64
+		{8D923A37-6CDD-4F0A-9142-1C140216D152}.Release|x64.Build.0 = Release|x64
+		{8D923A37-6CDD-4F0A-9142-1C140216D152}.Release|x86.ActiveCfg = Release|Win32
+		{8D923A37-6CDD-4F0A-9142-1C140216D152}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

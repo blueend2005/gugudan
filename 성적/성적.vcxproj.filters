@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\grade.c">
+    <ClCompile Include="grade.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
